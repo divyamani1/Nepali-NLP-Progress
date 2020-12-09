@@ -70,6 +70,7 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 
 ## Named Entity Recognition
 
+- [Named Entity Recognition (NER) for Nepali (Bal et al., 2019)](https://link.springer.com/chapter/10.1007/978-3-030-29750-3_6)
 - [Named Entity Recognition for Nepali Language (Singh et al., 2019)](https://arxiv.org/abs/1908.05828v1)
 - [Named Entity Recognition for Nepali Text Using Support Vector Machines (Bam and Shahi, 2014)](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=43828)
 - [Named Entity Recognition for Nepali language: A Semi Hybrid Approach (Dey et al., 2014)](https://www.ijeit.com/Vol%203/Issue%208/IJEIT1412201402_04.pdf)
@@ -109,13 +110,23 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 - [An Affix Removal Stemmer for Natural Language Text in Nepali (Paul et al., 2014)](https://www.ijcaonline.org/archives/volume91/number6/15882-3439)
 - [A Hybrid Algorithm for Stemming of Nepali Text (Chiranjibi Sitaula, 2014)](https://file.scirp.org/Html/4-8701252_34712.htm)
 
+## Subjectivity Analysis
+
+- [Analyzing facts and opinions in Nepali subjective texts (Bal et al., Aug 2017)](https://ieeexplore.ieee.org/document/8316445)
+
 ## Summarization
 
 - [Salient Sentence Extraction of Nepali Online Health News Texts (Ranabhat et al., 2019)](http://ictaes.org/wp-content/uploads/2019/07/4_21-26Salient-Sentence-Extraction-of-Nepali-Online-Health-News-Texts.pdf)
 
+## Text to Speech
+
+- [Building a Natural Sounding Text-to-Speech System for the Nepali Language - Research and Development Challenges and Solutions (Bajracharya et al., Aug 2018)](https://pdfs.semanticscholar.org/39cd/441faacb00a318d7121e5bbee7d02e2f73c4.pdf?_ga=2.107574849.293167234.1590247508-1685822225.1585112028)
+- [Enhancing the Quality of Nepali Text-to-Speech Systems (Bal, Bal Krishna and Ghimire, Rupak Raj; Aug 2017)](https://link.springer.com/chapter/10.1007/978-3-319-65551-2_14)
+
 ## Translation
 
 - [The FLORES Evaluation Datasets for Low-Resource Machine Translation: Nepali–English and Sinhala–English (Guzman et al. (2019))](https://www.aclweb.org/anthology/D19-1632/)
+- [A Comparative Study of SMT and NMT: Case Study of English-Nepali Language Pair (Bal, Bal Krishna and Acharya, Praveen 2018)](https://www.semanticscholar.org/paper/tudy-of-SMT-and-NMT-%3A-Case-S-tudy-of-English-Nepali-Acharya-Bal/6bd57d32ec7e81e40705b3282da0305c52c94c17?p2df)
 - [Handling Honorification in Dobhase: Online English-to-Nepali Machine Translation System (Keshari et al., 2007)](https://www.researchgate.net/publication/269161645_HANDLING_HONORIFICATION_IN_DOBHASE_ONLINE_ENGLISH-TO-NEPALI_MACHINE_TRANSLATION_SYSTEM)
 - [UNL Nepali Deconverter (Keshari et al.)](https://www.researchgate.net/publication/265043654_UNL_Nepali_Deconverter)
 
@@ -126,6 +137,7 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 ## Miscellaneous
 
 - [Nepali Image Captioning (Adhikari A. and Ghimire S., Nov. 2019)](https://ieeexplore.ieee.org/abstract/document/8947436)
+- [Issues in Encoding the Writing of Nepal’s Languages (Hall et al., 2014)](https://link.springer.com/chapter/10.1007/978-3-642-54906-9_5)
 - [Towards building advanced natural language applications: an overview of the existing primary resources and applications in Nepali (Bal Krishna Bal, 2009)](https://www.researchgate.net/publication/234790399_Towards_building_advanced_natural_language_applications_an_overview_of_the_existing_primary_resources_and_applications_in_Nepali)
 - [Construction and annotation of a corpus of contemporary Nepali (Yadava et al., 2008)](https://www.researchgate.net/publication/228916687_Construction_and_annotation_of_a_corpus_of_contemporary_Nepali)
 
