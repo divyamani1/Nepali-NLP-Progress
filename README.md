@@ -11,6 +11,7 @@ This curated list is an attempt to organize research in Nepali Natural Language 
 
 ## Classification
 
+- [An Analysis of Classification Algorithms for Nepali News (Acharya K. and Shakya S., Jul. 2020)](https://www.researchgate.net/publication/343228516_An_Analysis_of_Classification_Algorithms_for_Nepali_News)
 - [Nepali Text Document Classification Using Deep Neural Network (S. Subba, N. Paudel, and T. Shahi, Jun. 2019)](https://www.nepjol.info/index.php/TUJ/article/view/28677)
 - [Improving Nepali News Recommendation Using Classification Based on LSTM Recurrent Neural Networks (Basnet A. and Timalsina A., 2018)](https://ieeexplore.ieee.org/abstract/document/8586815)
 - [Automated News Classification using N-gram Model and Key Features of Nepali Language (Dangol et al., 2018)](https://www.nepjol.info/index.php/scitech/article/view/23504 )
@@ -48,6 +49,7 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 ## Grammar
 
 - [Inflection and derivation in Nepali Noun, adjective and adverb 1 Inflection and derivation in Nepali (Dr. Laxmi Prasad Khatiwada, 2013)](https://www.researchgate.net/publication/237202333_Inflection_and_derivation_in_Nepali_Noun_adjective_and_adverb_1_Inflection_and_derivation_in_Nepali)
+- [A collocation-based approach to Nepali postpositions (Hardie, Andrew Jun. 2008)](https://www.researchgate.net/publication/240750540_A_collocation-based_approach_to_Nepali_postpositions)
 - [Structure of Nepali Grammar (Bal Krishna Bal, 2004)](https://www.researchgate.net/publication/237261579_Structure_of_Nepali_Grammar)
 - [Report on Nepali Computational Grammar (Rupakheti et al.)](https://www.researchgate.net/publication/237310273_Report_on_Nepali_Computational_Grammar)
 
@@ -64,8 +66,10 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 
 - [Design of a Morph Analyzer for Non-Declinable Adjectives of Nepali Language (Borah et al., 2017)](https://dl.acm.org/doi/10.1145/3036290.3036307)
 - [Development of a Morph Analyser for Nepali noun token (Chhetri et al., 2015)](https://www.researchgate.net/publication/308821504_Development_of_a_Morph_Analyser_for_Nepali_noun_token)
+- [Building Morphological Analyzer for Nepali (Rai R. and Bhat, S.M., 2012)](https://www.academia.edu/5484848/Building_Morphological_Analyzer_for_Nepali)
 - [A Computational Analysis of Nepali Morphology: A Model For Natural Language Processing (Balaram Prasain, PhD, 2011)](https://ojs.ub.uni-konstanz.de/jsal/dissertations/diss-balaram.pdf)
 - [A Morphological Analyzer and a Stemmer for Nepali (Bal Krishna Bal)](https://www.researchgate.net/publication/237658531_A_Morphological_Analyzer_and_a_Stemmer_for_Nepali)
+- [Morphological analysis of verbs in Nepali (Basnet, S.B. and Pandey, S.B., 2009)](https://www.academia.edu/download/15389403/nep_ling_24.pdf#page=28)
 - [Nelralec/Bhasha Sanchar Working Paper 2 Categorisation for automated morphosyntactic analysis of Nepali: introducing the Nelralec Tagset (NT-01) (Hardie et al., 2005)](https://web.archive.org/web/20120522194347/http://www.bhashasanchar.org:80/pdfs/nelralec-wp-tagset.pdf)
 
 ## Named Entity Recognition
