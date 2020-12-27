@@ -131,18 +131,23 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 
 - [The FLORES Evaluation Datasets for Low-Resource Machine Translation: Nepali–English and Sinhala–English (Guzman et al. (2019))](https://www.aclweb.org/anthology/D19-1632/)
 - [A Comparative Study of SMT and NMT: Case Study of English-Nepali Language Pair (Bal, Bal Krishna and Acharya, Praveen 2018)](https://www.semanticscholar.org/paper/tudy-of-SMT-and-NMT-%3A-Case-S-tudy-of-English-Nepali-Acharya-Bal/6bd57d32ec7e81e40705b3282da0305c52c94c17?p2df)
+- [English to Nepali Statistical Machine Translation System (Paul et. al., 2018)](https://link.springer.com/chapter/10.1007/978-981-10-6890-4_41)
+- [Experiences in building the Nepali WordNet - insights and challenges (Chakraborty et. al., 2009)](https://www.semanticscholar.org/paper/Experiences-in-building-the-Nepali-WordNet-insights-Chakrabarty/4b69af4ab75f8f7ee2de9deef383b6cc38f546bf)
 - [Handling Honorification in Dobhase: Online English-to-Nepali Machine Translation System (Keshari et al., 2007)](https://www.researchgate.net/publication/269161645_HANDLING_HONORIFICATION_IN_DOBHASE_ONLINE_ENGLISH-TO-NEPALI_MACHINE_TRANSLATION_SYSTEM)
 - [UNL Nepali Deconverter (Keshari et al.)](https://www.researchgate.net/publication/265043654_UNL_Nepali_Deconverter)
 
 ## Word sense disambiguation
 
+- [Knowledge based approaches to nepali word sense disambiguation (Rey et. al., 2014)](http://airccse.org/journal/ijnlc/papers/3314ijnlc05.pdf)
 - [Resources for Nepali Word Sense Disambiguation (Shrestha et al., Oct. 2008)](https://ieeexplore.ieee.org/abstract/document/4906758)
 
 ## Miscellaneous
 
 - [Nepali Image Captioning (Adhikari A. and Ghimire S., Nov. 2019)](https://ieeexplore.ieee.org/abstract/document/8947436)
+- [An Experience in Developing the Nepali Sense Tagged Corpus (Sarkar et. al., 2015)](https://ieeexplore.ieee.org/document/7148388)
 - [Issues in Encoding the Writing of Nepal’s Languages (Hall et al., 2014)](https://link.springer.com/chapter/10.1007/978-3-642-54906-9_5)
 - [Towards building advanced natural language applications: an overview of the existing primary resources and applications in Nepali (Bal Krishna Bal, 2009)](https://www.researchgate.net/publication/234790399_Towards_building_advanced_natural_language_applications_an_overview_of_the_existing_primary_resources_and_applications_in_Nepali)
+- [A Proposed Nepali Synset Entry and Extraction Tool (Roy et. al., 2009)](http://www.academia.edu/download/31907561/gwc2012.pdf#page=317)
 - [Construction and annotation of a corpus of contemporary Nepali (Yadava et al., 2008)](https://www.researchgate.net/publication/228916687_Construction_and_annotation_of_a_corpus_of_contemporary_Nepali)
 
 ### References
