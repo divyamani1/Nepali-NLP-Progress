@@ -1,6 +1,6 @@
 # Nepali-NLP-Progress
 
-This curated list is an attempt to organize research in Nepali Natural Language Processing. This is by no means an exhaustive list, so contributions are welcome.
+This curated list is an attempt to organize research and available tools in Nepali Natural Language Processing. This is by no means an exhaustive list, so contributions are welcome.
 
 ## Character Recognition
 
@@ -39,17 +39,11 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 - [Parsing Techniques using Paninian Framework on Nepali Language (A. Yajnik and D. Sharma, Nov. 2015)](https://www.researchgate.net/publication/289366165_Parsing_Techniques_using_Paninian_Framework_on_Nepali_Language)
 - [Report on Nepali Computational Grammar (Rupakheti et al.)](https://www.academia.edu/2414578/Report_on_Nepali_Computational_Grammar)
 
-## Embeddings
-
-### Pre-trained embeddings
-
-- [300-Dimensional Word Embeddings for Nepali Language (Lamsal Rabindra)](https://ieee-dataport.org/keywords/nepali-word-embeddings)
-- [fasttext embeddings](https://fasttext.cc/docs/en/crawl-vectors.html)
-
 ## Grammar
 
 - [Inflection and derivation in Nepali Noun, adjective and adverb 1 Inflection and derivation in Nepali (Dr. Laxmi Prasad Khatiwada, 2013)](https://www.researchgate.net/publication/237202333_Inflection_and_derivation_in_Nepali_Noun_adjective_and_adverb_1_Inflection_and_derivation_in_Nepali)
 - [A collocation-based approach to Nepali postpositions (Hardie, Andrew Jun. 2008)](https://www.researchgate.net/publication/240750540_A_collocation-based_approach_to_Nepali_postpositions)
+- [Architectural and System Design of the Nepali Grammar Checker (B.K. Bal, P. Shrestha and M.P. Pustakalaya)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.485.2921&rep=rep1&type=pdf)
 - [Structure of Nepali Grammar (Bal Krishna Bal, 2004)](https://www.researchgate.net/publication/237261579_Structure_of_Nepali_Grammar)
 - [Report on Nepali Computational Grammar (Rupakheti et al.)](https://www.researchgate.net/publication/237310273_Report_on_Nepali_Computational_Grammar)
 
@@ -95,10 +89,9 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 ## Sentiment analysis
 
 - [Sentiment Analysis in Nepali: Exploring Machine Learning and Lexicon-based Approaches (Piryani, Rajesh et al. , Jan 2020)](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs179884)
-- [Analyzing facts and opinions in Nepali subjective texts (Regmi et al., 2017)](https://www.researchgate.net/publication/323792895_Analyzing_facts_and_opinions_in_Nepali_subjective_texts)
 - [Classifying sentiments in Nepali subjective texts (Thapa et al., 2016)](https://www.researchgate.net/publication/311755938_Classifying_sentiments_in_Nepali_subjective_texts)
 - [Detecting Sentiment in Nepali texts: A bootstrap approach for Sentiment Analysis of texts in the Nepali language (Gupta et al., 2015)](https://www.researchgate.net/publication/301403864_Detecting_Sentiment_in_Nepali_texts_A_bootstrap_approach_for_Sentiment_Analysis_of_texts_in_the_Nepali_language)
-- [Sentiment Analysis on Nepali Movie Reviews using Machine Learning (A. Yadav and A. K. Pant, 2014)](https://www.academia.edu/12075554/Sentiment_Analysis_on_Nepali_Movie_Reviews_using_Machine_Learning)
+- [Sentiment Analysis on Nepali Movie Reviews using Machine Learning (A. Yadav and A. K. Pant, 2014)](http://ashokpant.github.io/publications/ashok_2014_sentiment.pdf)
 
 ## Speech recognition
 
@@ -107,6 +100,11 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 - [Crowd-Sourced Speech Corpora for Javanese, Sundanese,
 Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/c24ce05c8c8402a900ea26409230cef3d117910e.pdf)
 - [HMM based isolated word Nepali speech recognition (M. K. Ssarma, A. Gajurel, A. Pokhrel, and B. Joshi, Jul. 2017)](http://mkslive.com/wp-content/uploads/2018/01/ICMLC-4029.pdf)
+
+## Spell Checking
+
+- Nepali Spell Checker. (Bal Krishna Bal et. al.)
+- Nepali Spell Checker 1.1 and the Thesaurus, Research and Development Bal Krishna Bal et. al.)
 
 ## Stemming
 
@@ -150,10 +148,23 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 - [A Proposed Nepali Synset Entry and Extraction Tool (Roy et. al., 2009)](http://www.academia.edu/download/31907561/gwc2012.pdf#page=317)
 - [Construction and annotation of a corpus of contemporary Nepali (Yadava et al., 2008)](https://www.researchgate.net/publication/228916687_Construction_and_annotation_of_a_corpus_of_contemporary_Nepali)
 
-### References
+## Tools and Resources
+
+### Pre-trained Embeddings
+
+- [300-Dimensional Word Embeddings for Nepali Language (Lamsal Rabindra)](https://ieee-dataport.org/keywords/nepali-word-embeddings)
+- [fasttext embeddings](https://fasttext.cc/docs/en/crawl-vectors.html)
+- [ELMo embeddings (and more, for many South Asian languages)](https://www.cfilt.iitb.ac.in/~diptesh/embeddings/)
+- [Byte Pair Embeddings](https://bpemb.h-its.org/ne/)
+
+### Corpus
+
+- [Nepali Corpus with 3.2B tokens (C4 Multilingual)](https://github.com/allenai/allennlp/discussions/5265)
+
+## References
 
 - [Nepali NLP Research Papers](https://blog.sushilawale.com/nlp-nepali/)
 
-### Contributing guidelines
+## Contributing guidelines
 
 If there has been a mistake of any kind (paper name, link, author attribution and so on) or you want me to add new papers related to Nepali NLP, feel free to open an issue describing the case and I'll make sure to correct the mistake or add that paper. In case you, want to suggest changes or updates yourself then fork the repository and create a pull request.
