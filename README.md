@@ -43,9 +43,13 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 
 - [Inflection and derivation in Nepali Noun, adjective and adverb 1 Inflection and derivation in Nepali (Dr. Laxmi Prasad Khatiwada, 2013)](https://www.researchgate.net/publication/237202333_Inflection_and_derivation_in_Nepali_Noun_adjective_and_adverb_1_Inflection_and_derivation_in_Nepali)
 - [A collocation-based approach to Nepali postpositions (Hardie, Andrew Jun. 2008)](https://www.researchgate.net/publication/240750540_A_collocation-based_approach_to_Nepali_postpositions)
+- [Collocational properties of adpositions in Nepali and English (Hardie, Andrew Jun. 2007)](http://ucrel.lancs.ac.uk/publications/CL2007/paper/88_Paper.pdf)
+- [(Book) Contemporary issues in Nepalese linguistics (Yadava et al., 2005)](https://www.worldcat.org/title/contemporary-issues-in-nepalese-linguistics/oclc/70054532)
 - [Architectural and System Design of the Nepali Grammar Checker (B.K. Bal, P. Shrestha and M.P. Pustakalaya)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.485.2921&rep=rep1&type=pdf)
 - [Structure of Nepali Grammar (Bal Krishna Bal, 2004)](https://www.researchgate.net/publication/237261579_Structure_of_Nepali_Grammar)
 - [Report on Nepali Computational Grammar (Rupakheti et al.)](https://www.researchgate.net/publication/237310273_Report_on_Nepali_Computational_Grammar)
+- [(Book) Beyond Preferred Argument Structure: Sentences, pronouns, and given referents in Nepali (Genetti C. & Crain L. D., Sep 2003)](https://benjamins.com/catalog/sidag.14.10gen)
+- [(Book) A Descriptive Grammar of Nepali and an Analyzed Corpus (Acharya Jayaraj, Jun. 1991)](http://press.georgetown.edu/book/languages/descriptive-grammar-nepali-and-analyzed-corpus)
 
 ## Lexicon development
 
@@ -81,6 +85,10 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 - [Enhancing the Performance of Part of Speech tagging of Nepali language through Hybrid approach(Sinha et al., 2015)](https://www.semanticscholar.org/paper/Enhancing-the-Performance-of-Part-of-Speech-tagging-Sinha-Veyie/415e970bee7291b7fe5679a3c7f845f446f899e7)
 - [Hidden Markov Model based Part of Speech Tagging for Nepali language (Paul et al., 2015)](https://ieeexplore.ieee.org/document/7377332)
 - [Support Vector Machines based Part of Speech Tagging for Nepali Text (Shahi and Dhamala, 2013)](https://www.semanticscholar.org/paper/Support-Vector-Machines-based-Part-of-Speech-for-Shahi-Dhamala/b36505276ef839d9b0cf193c6e65032ca5c73b37)
+
+## Representation Learning
+
+- [Exploring Applications of Representation Learning in Nepali (Nepal A. & Yates A., Apr 2014)](https://link.springer.com/chapter/10.1007%2F978-3-642-54906-9_12)
 
 ## Semantic similarity
 
@@ -127,6 +135,8 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 
 ## Translation
 
+- [Low Resource English to Nepali Sentence Translation Using RNN—Long Short-Term Memory with Attention (Nemkul K. & Shakya S., Mar 2021)](https://link.springer.com/chapter/10.1007%2F978-981-33-4355-9_48)
+- [English to Nepali Sentence Translation Using Recurrent Neural Network with Attention (Nemkul K. & Shakya S., Feb 2021)](https://ieeexplore.ieee.org/document/9397185)
 - [The FLORES Evaluation Datasets for Low-Resource Machine Translation: Nepali–English and Sinhala–English (Guzman et al. (2019))](https://www.aclweb.org/anthology/D19-1632/)
 - [A Comparative Study of SMT and NMT: Case Study of English-Nepali Language Pair (Bal, Bal Krishna and Acharya, Praveen 2018)](https://www.semanticscholar.org/paper/tudy-of-SMT-and-NMT-%3A-Case-S-tudy-of-English-Nepali-Acharya-Bal/6bd57d32ec7e81e40705b3282da0305c52c94c17?p2df)
 - [English to Nepali Statistical Machine Translation System (Paul et. al., 2018)](https://link.springer.com/chapter/10.1007/978-981-10-6890-4_41)
@@ -160,6 +170,14 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 ### Corpus
 
 - [Nepali Corpus with 3.2B tokens (C4 Multilingual)](https://github.com/allenai/allennlp/discussions/5265)
+
+### Text summarization
+
+- [Abstractive summary for BBC Nepali news articles](https://github.com/csebuetnlp/xl-sum#datasets)
+
+### Speech
+
+- [Audio from Bible New Testament (along with transcription) for Nepali, Newari, Tharu and so on.](https://www.faithcomesbyhearing.com/audio-bible-resources/recordings-database)
 
 ## References
 
