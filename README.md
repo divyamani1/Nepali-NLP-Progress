@@ -196,9 +196,12 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 
 - [Audio from Bible New Testament (along with transcription) for Nepali, Newari, Tharu and so on.](https://www.faithcomesbyhearing.com/audio-bible-resources/recordings-database)
 
-## References
+## More Resources
 
 - [Nepali NLP Research Papers](https://blog.sushilawale.com/nlp-nepali/)
+- [Nepali NLP Resources](https://github.com/rameshhpathak/nepali-nlp-resources)
+- [Nepali NLP Toolkit](https://github.com/sushil79g/Nepali_nlp)
+- [Machine learning datasets for Nepali Researchers](https://github.com/amitness/ml-datasets)
 
 ## Contributing guidelines
 
