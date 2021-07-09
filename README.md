@@ -112,6 +112,9 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 
 ## Sentiment analysis
 
+- [Aspect Based Abusive Sentiment Detection in Nepali Social Media Texts (Singh et al., Dec 2020)](https://ieeexplore.ieee.org/document/9381292)
+- [Named-Entity Based Sentiment Analysis of Nepali News Media Texts (Bal et al., Dec 2020)](https://aclanthology.org/2020.nlptea-1.16/)
+- [Aspect Based Sentiment Analysis of Nepali Text Using Support Vector Machine and Naive Bayes (Tamrakar et al., Nov 2020)](https://www.nepjol.info/index.php/TJ/article/view/32824)
 - [Sentiment Analysis in Nepali: Exploring Machine Learning and Lexicon-based Approaches (Piryani, Rajesh et al. , Jan 2020)](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs179884)
 - [Classifying sentiments in Nepali subjective texts (Thapa et al., 2016)](https://www.researchgate.net/publication/311755938_Classifying_sentiments_in_Nepali_subjective_texts)
 - [Detecting Sentiment in Nepali texts: A bootstrap approach for Sentiment Analysis of texts in the Nepali language (Gupta et al., 2015)](https://www.researchgate.net/publication/301403864_Detecting_Sentiment_in_Nepali_texts_A_bootstrap_approach_for_Sentiment_Analysis_of_texts_in_the_Nepali_language)
@@ -132,6 +135,7 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 
 ## Stemming
 
+- [A Nepali Rule Based Stemmer and its performance on different NLP applications (Koirala P. & Shakya A., 2020)](https://arxiv.org/abs/2002.09901)
 - [A new stemmer for Nepali language (Shrestha and Dhakal, 2016)](https://ieeexplore.ieee.org/document/7749008?reload=true)
 - [An Affix Removal Stemmer for Natural Language Text in Nepali (Paul et al., 2014)](https://www.ijcaonline.org/archives/volume91/number6/15882-3439)
 - [A Hybrid Algorithm for Stemming of Nepali Text (Chiranjibi Sitaula, 2014)](https://file.scirp.org/Html/4-8701252_34712.htm)
@@ -152,15 +156,19 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 
 - [Building a Natural Sounding Text-to-Speech System for the Nepali Language - Research and Development Challenges and Solutions (Bajracharya et al., Aug 2018)](https://pdfs.semanticscholar.org/39cd/441faacb00a318d7121e5bbee7d02e2f73c4.pdf?_ga=2.107574849.293167234.1590247508-1685822225.1585112028)
 - [Enhancing the Quality of Nepali Text-to-Speech Systems (Bal, Bal Krishna and Ghimire, Rupak Raj; Aug 2017)](https://link.springer.com/chapter/10.1007/978-3-319-65551-2_14)
+- Nepali Text to Speech using Time Domain Pitch Synchronous Overlap Add Method (Malla P. 2015)
+- [Nepali Text to Speech Synthesis System using ESNOLA Method of Concatenation (Chettri B. & Shah K.B., Jan 2013)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.303.4235&rep=rep1&type=pdf)
 
 ## Translation
 
 - [Low Resource English to Nepali Sentence Translation Using RNN—Long Short-Term Memory with Attention (Nemkul K. & Shakya S., Mar 2021)](https://link.springer.com/chapter/10.1007%2F978-981-33-4355-9_48)
 - [English to Nepali Sentence Translation Using Recurrent Neural Network with Attention (Nemkul K. & Shakya S., Feb 2021)](https://ieeexplore.ieee.org/document/9397185)
+- [Efforts in the Development of an Augmented English–Nepali Parallel Corpus (Duwal S. & Bal B.K., Dec 2019)](https://lt4all.elra.info/proceedings/lt4all2019/pdf/2019.lt4all-1.94.pdf)
 - [The FLORES Evaluation Datasets for Low-Resource Machine Translation: Nepali–English and Sinhala–English (Guzman et al. (2019))](https://www.aclweb.org/anthology/D19-1632/)
 - [A Comparative Study of SMT and NMT: Case Study of English-Nepali Language Pair (Bal, Bal Krishna and Acharya, Praveen 2018)](https://www.semanticscholar.org/paper/tudy-of-SMT-and-NMT-%3A-Case-S-tudy-of-English-Nepali-Acharya-Bal/6bd57d32ec7e81e40705b3282da0305c52c94c17?p2df)
 - [English to Nepali Statistical Machine Translation System (Paul et. al., 2018)](https://link.springer.com/chapter/10.1007/978-981-10-6890-4_41)
 - [Expansion of the First Hindi-Nepali Word-Net based BiLingual Dictionary and the advancement of the HumanMachine Interface (Chakraborty et. al., Dec 2011)](https://research.ijcaonline.org/iceice/number6/iceice045.pdf)
+- [Development of a Nepali-English MT system using the Apertium MT platform](http://ltk.org.np/downloads/Report_internship_Apertium_MT_2011.pdf)
 - An Approach Towards The Construction Of The First Hindi-Nepali Word-Net Based Bi-Lingual Dictionary And The Challenges Handled (Chakraborty et al., 2011)
 - [Experiences in building the Nepali WordNet - insights and challenges (Chakraborty et. al., 2009)](https://www.semanticscholar.org/paper/Experiences-in-building-the-Nepali-WordNet-insights-Chakrabarty/4b69af4ab75f8f7ee2de9deef383b6cc38f546bf)
 - [Handling Honorification in Dobhase: Online English-to-Nepali Machine Translation System (Keshari et al., 2007)](https://www.researchgate.net/publication/269161645_HANDLING_HONORIFICATION_IN_DOBHASE_ONLINE_ENGLISH-TO-NEPALI_MACHINE_TRANSLATION_SYSTEM)
@@ -168,8 +176,14 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 
 ## Word sense disambiguation
 
+- [Word Sense Disambiguation using WSD specific Wordnet of Polysemy Words (Dhungana et al., Sep 2014)](https://arxiv.org/abs/1409.3512)
+- [Word sense disambiguation in Nepali language (Dhungana U.R. & Shakya S., May 2014)](https://ieeexplore.ieee.org/document/6821655)
+- [Word Sense Disambiguation using Clue Words (Dhungana U.R. & Shakya S., 2014)](https://www.nepjol.info/index.php/JIE/article/view/10900/8874)
 - [Knowledge based approaches to nepali word sense disambiguation (Rey et. al., 2014)](http://airccse.org/journal/ijnlc/papers/3314ijnlc05.pdf)
+- Nepali WSD Specific WordNet (Dhungana U.R., 2012)
+- Nepali Word Sense Disambigution using Adapted Lesk Algorithm (Dhungana U.R., 2011)
 - [Resources for Nepali Word Sense Disambiguation (Shrestha et al., Oct. 2008)](https://ieeexplore.ieee.org/abstract/document/4906758)
+- [Word Sense Disambiguation; a Brief Survey with Application to Nepali (Shrestha et al., Jan 2008)](https://www.researchgate.net/publication/265154046_Word_Sense_Disambiguation_a_Brief_Survey_with_Application_to_Nepali)
 
 ## Miscellaneous
 
