@@ -9,12 +9,14 @@ This curated list is an attempt to organize research and available tools in Nepa
 - [Dictionary Based Nepali Word Recognition using Neural Network (Dawadi et al., 2017)](https://www.ijser.org/researchpaper/Dictionary-Based-Nepali-Word-Recognition-using-Neural-Network.pdf)
 - [Literature Review of Segmentation Problems in Nepali Optical Character Recognition (Bal, Bal Krishna and Pant, Nirajan 2016)](https://www.researchgate.net/publication/291348878_Literature_Review_of_Segmentation_Problems_in_Nepali_Optical_Character_Recognition)
 - [Off-line Nepali Handwritten Character Recognition Using Multilayer Perceptron and Radial Basis Function Neural Networks (Pant et al., 2012)](http://ashokpant.github.io/publications/ashok_2012_off.pdf)
+- [Research Report on the Nepali OCR (Bal B.K. & Rupakheti P. Sep 2009)](https://web.archive.org/web/20150105025630/http://www.panl10n.net/english/Outputs%20Phase%202/CCs/Nepal/MPP/Papers/2009/research_report_nepali_ocr.pdf)
 - [Combining Multiple Feature Extraction Techniques for Handwritten Devnagari Character Recognition (Arora et al., 2008)](https://arxiv.org/pdf/1005.4032.pdf)
 
 ## Classification
 
 - [Vector representation based on a supervised codebook for Nepali documents classification (Sitaula et al., Mar 2021)](https://www.researchgate.net/publication/349763908_Vector_representation_based_on_a_supervised_codebook_for_Nepali_documents_classification)
 - [An Analysis of Classification Algorithms for Nepali News (Acharya K. and Shakya S., Jul. 2020)](https://www.researchgate.net/publication/343228516_An_Analysis_of_Classification_Algorithms_for_Nepali_News)
+- [Nepali SMS filtering Using Decision Trees, Neural Network and Support Vector Machine (Shahi T.B & Shakya S., Oct 2018)](https://www.researchgate.net/publication/334167706_Nepali_SMS_filtering_Using_Decision_Trees_Neural_Network_and_Support_Vector_Machine)
 - [Nepali Text Document Classification Using Deep Neural Network (S. Subba, N. Paudel, and T. Shahi, Jun. 2019)](https://www.nepjol.info/index.php/TUJ/article/view/28677)
 - [Improving Nepali News Recommendation Using Classification Based on LSTM Recurrent Neural Networks (Basnet A. and Timalsina A., 2018)](https://ieeexplore.ieee.org/abstract/document/8586815)
 - [Automated News Classification using N-gram Model and Key Features of Nepali Language (Dangol et al., 2018)](https://www.nepjol.info/index.php/scitech/article/view/23504 )
@@ -35,6 +37,7 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 ## Co-reference resolution
 
 - [A Machine Learning Approach to Anaphora Resolution in Nepali Language (Senapati et al., July 2020)](https://ieeexplore.ieee.org/document/9200135)
+- Anaphoric Resolution in Nepali (Dev Bahadur Poudel and Bivod Aale Magar)
 
 ## Corpus development
 
@@ -50,6 +53,7 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 ## Grammar
 
 - [Inflection and derivation in Nepali Noun, adjective and adverb 1 Inflection and derivation in Nepali (Dr. Laxmi Prasad Khatiwada, 2013)](https://www.researchgate.net/publication/237202333_Inflection_and_derivation_in_Nepali_Noun_adjective_and_adverb_1_Inflection_and_derivation_in_Nepali)
+- [Collation Sequence in Nepali - PAN Localization (Gurung S. & Khatiwada L.P.)](https://web.archive.org/web/20120916174715/http://www.panl10n.net/english/final%20reports/pdf%20files/Nepal/NEP01.pdf)
 - [A collocation-based approach to Nepali postpositions (Hardie, Andrew Jun. 2008)](https://www.researchgate.net/publication/240750540_A_collocation-based_approach_to_Nepali_postpositions)
 - [Collocational properties of adpositions in Nepali and English (Hardie, Andrew Jun. 2007)](http://ucrel.lancs.ac.uk/publications/CL2007/paper/88_Paper.pdf)
 - [(Book) Contemporary issues in Nepalese linguistics (Yadava et al., 2005)](https://www.worldcat.org/title/contemporary-issues-in-nepalese-linguistics/oclc/70054532)
@@ -57,6 +61,8 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 - [Structure of Nepali Grammar (Bal Krishna Bal, 2004)](https://www.researchgate.net/publication/237261579_Structure_of_Nepali_Grammar)
 - [Report on Nepali Computational Grammar (Rupakheti et al.)](https://www.researchgate.net/publication/237310273_Report_on_Nepali_Computational_Grammar)
 - [(Book) Beyond Preferred Argument Structure: Sentences, pronouns, and given referents in Nepali (Genetti C. & Crain L. D., Sep 2003)](https://benjamins.com/catalog/sidag.14.10gen)
+- [Benefactive Constructions in Nepali (Madhav P. Poudel, 2000)](http://www.lib.kobe-u.ac.jp/repository/81001550.pdf)
+- [Aspects of Nepali Grammar (Santa Barbara Papers in Linguistics, Volume 6, 1994 Dept. of Linguistics, UCSB)](https://www.linguistics.ucsb.edu/sites/secure.lsit.ucsb.edu.ling.d7/files/sitefiles/research/papers/Working%20Papers%20Vol%206.pdf)
 - [(Book) A Descriptive Grammar of Nepali and an Analyzed Corpus (Acharya Jayaraj, Jun. 1991)](http://press.georgetown.edu/book/languages/descriptive-grammar-nepali-and-analyzed-corpus)
 
 ## Image Captioning
@@ -70,10 +76,6 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 - [A Proposed Nepali Synset Entry and Extraction Tool (Roy et. al., 2012)](https://research.vu.nl/ws/portalfiles/portal/3628717/gwc2012.pdf#page=317)
 - [Nepali Lexicon (Khatiwada, Laxmi P. and Gurung S.,  2007)](https://www.researchgate.net/publication/237202254_Co-Author_paper_Nepali_Lexicon)
 - [Nepali Lexicon Development (Bista et al.)](https://www.researchgate.net/publication/267789368_Nepali_Lexicon_Development)
-
-## Linguistics
-
-- [Linguistic Taboos and Euphemisms in Nepali (Nobal B. Niraula and Saurab Dulal and Diwa Koirala, 2020)](https://arxiv.org/abs/2007.13798v1)
 
 ## Morphological analysis
 
@@ -96,11 +98,13 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 ## POS tagging
 
 - [A Deep Learning Approach for Part-of-Speech Tagging in Nepali Language (Prabha et al., 2018)](https://ieeexplore.ieee.org/document/8554812)
+- [General Regression Neural Network Based PoS Tagging for Nepali Text (Archit Yajnik, Apr 2018)](https://www.researchgate.net/publication/325030165_General_Regression_Neural_Network_Based_PoS_Tagging_for_Nepali_Text)
 - [ANN Based POS Tagging For Nepali Text (Archit Yajnik, 2018)](https://www.semanticscholar.org/paper/ANN-Based-POS-Tagging-For-Nepali-Text-ArchitYajnik/8cc1a284d7ea51f267bb33dfdc520ad25d89a3f9?navId=extracted)
 - [Part of Speech Tagging Using Statistical Approach for Nepali Text (Archit Yajnik, 2017)](https://www.semanticscholar.org/paper/Part-of-Speech-Tagging-Using-Statistical-Approach-Yajnik/9f3a6aec785a7ba90999704cfecabb8c016a3d8e)
 - [Enhancing the Performance of Part of Speech tagging of Nepali language through Hybrid approach(Sinha et al., 2015)](https://www.semanticscholar.org/paper/Enhancing-the-Performance-of-Part-of-Speech-tagging-Sinha-Veyie/415e970bee7291b7fe5679a3c7f845f446f899e7)
 - [Hidden Markov Model based Part of Speech Tagging for Nepali language (Paul et al., 2015)](https://ieeexplore.ieee.org/document/7377332)
 - [Support Vector Machines based Part of Speech Tagging for Nepali Text (Shahi and Dhamala, 2013)](https://www.semanticscholar.org/paper/Support-Vector-Machines-based-Part-of-Speech-for-Shahi-Dhamala/b36505276ef839d9b0cf193c6e65032ca5c73b37)
+- Hidden Markov Model Based Probabilistic Part Of Speech Tagging For Nepali Text (Jaishi M.R. Jan 2009)
 
 ## Representation Learning
 
@@ -115,6 +119,7 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 - [Aspect Based Abusive Sentiment Detection in Nepali Social Media Texts (Singh et al., Dec 2020)](https://ieeexplore.ieee.org/document/9381292)
 - [Named-Entity Based Sentiment Analysis of Nepali News Media Texts (Bal et al., Dec 2020)](https://aclanthology.org/2020.nlptea-1.16/)
 - [Aspect Based Sentiment Analysis of Nepali Text Using Support Vector Machine and Naive Bayes (Tamrakar et al., Nov 2020)](https://www.nepjol.info/index.php/TJ/article/view/32824)
+- [Twitter Sentiment analysis during COVID-19 Outbreak in Nepal (Pokharel B.P., Jun 2020)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3624719)
 - [Sentiment Analysis in Nepali: Exploring Machine Learning and Lexicon-based Approaches (Piryani, Rajesh et al. , Jan 2020)](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs179884)
 - [Classifying sentiments in Nepali subjective texts (Thapa et al., 2016)](https://www.researchgate.net/publication/311755938_Classifying_sentiments_in_Nepali_subjective_texts)
 - [Detecting Sentiment in Nepali texts: A bootstrap approach for Sentiment Analysis of texts in the Nepali language (Gupta et al., 2015)](https://www.researchgate.net/publication/301403864_Detecting_Sentiment_in_Nepali_texts_A_bootstrap_approach_for_Sentiment_Analysis_of_texts_in_the_Nepali_language)
@@ -130,8 +135,8 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 
 ## Spell Checking
 
-- Nepali Spell Checker. (Bal Krishna Bal et. al.)
-- [Nepali Spell Checker 1.1 and the Thesaurus, Research and Development Bal Krishna Bal et. al., 2007)](https://www.semanticscholar.org/paper/Nepali-Spellchecker-1-.-1-and-the-Thesaurus-%2C-and-Bal-Karki/a48160f9e1035b0a5804ccf344bd44887be77d90)
+- [Nepali Spell Checker 1.1 and the Thesaurus, Research and Development Bal Krishna Bal et. al., 2007)](https://web.archive.org/web/20131020064957/http://www.panl10n.net/english/final%20reports/pdf%20files/Nepal/NEP05.pdf)
+- [Nepali Spell Checker. (Bal Krishna Bal et. al.)](https://web.archive.org/web/20150105024511/http://www.panl10n.net/english/final%20reports/pdf%20files/Nepal/NEP04.pdf)
 
 ## Stemming
 
@@ -187,7 +192,9 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 
 ## Miscellaneous
 
+- [Linguistic Taboos and Euphemisms in Nepali (Nobal B. Niraula and Saurab Dulal and Diwa Koirala, 2020)](https://arxiv.org/abs/2007.13798v1)
 - [Issues in Encoding the Writing of Nepal’s Languages (Hall et al., 2014)](https://link.springer.com/chapter/10.1007/978-3-642-54906-9_5)
+- [Research Report on PDA Localization (Bal et al.)](https://web.archive.org/web/20150105024515/http://www.panl10n.net/english/final%20reports/pdf%20files/Nepal/NEP19.pdf)
 
 ## Tools and Resources
 
