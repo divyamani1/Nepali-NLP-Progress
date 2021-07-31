@@ -7,6 +7,7 @@ This curated list is an attempt to organize research and available tools in Nepa
 - [DevNet: An Efficient CNN Architecture for Handwritten Devanagari Character Recognition (Guha et al., Nov 2019)](https://www.researchgate.net/publication/337626194_DevNet_An_Efficient_CNN_Architecture_for_Handwritten_Devanagari_Character_Recognition)
 - [Optical Character Recognition System for Nepali Language Using ConvNet (Sharma, Manish K. and Bhattarai, Bidhan. 2017)](https://dl.acm.org/doi/10.1145/3055635.3056635)
 - [Dictionary Based Nepali Word Recognition using Neural Network (Dawadi et al., 2017)](https://www.ijser.org/researchpaper/Dictionary-Based-Nepali-Word-Recognition-using-Neural-Network.pdf)
+- [Nepali Character Recognition Using Deep Belief Nets (Neupane Aadesh, 2017)](http://aadeshnpn.com/wp-content/uploads/2018/09/nepali-character-recognition.pdf)
 - [Literature Review of Segmentation Problems in Nepali Optical Character Recognition (Bal, Bal Krishna and Pant, Nirajan 2016)](https://www.researchgate.net/publication/291348878_Literature_Review_of_Segmentation_Problems_in_Nepali_Optical_Character_Recognition)
 - [Off-line Nepali Handwritten Character Recognition Using Multilayer Perceptron and Radial Basis Function Neural Networks (Pant et al., 2012)](http://ashokpant.github.io/publications/ashok_2012_off.pdf)
 - [Research Report on the Nepali OCR (Bal B.K. & Rupakheti P. Sep 2009)](https://web.archive.org/web/20150105025630/http://www.panl10n.net/english/Outputs%20Phase%202/CCs/Nepal/MPP/Papers/2009/research_report_nepali_ocr.pdf)
@@ -19,6 +20,7 @@ This curated list is an attempt to organize research and available tools in Nepa
 - [Nepali SMS filtering Using Decision Trees, Neural Network and Support Vector Machine (Shahi T.B & Shakya S., Oct 2018)](https://www.researchgate.net/publication/334167706_Nepali_SMS_filtering_Using_Decision_Trees_Neural_Network_and_Support_Vector_Machine)
 - [Nepali Text Document Classification Using Deep Neural Network (S. Subba, N. Paudel, and T. Shahi, Jun. 2019)](https://www.nepjol.info/index.php/TUJ/article/view/28677)
 - [Improving Nepali News Recommendation Using Classification Based on LSTM Recurrent Neural Networks (Basnet A. and Timalsina A., 2018)](https://ieeexplore.ieee.org/abstract/document/8586815)
+- [Plagiarism Detection Framework Using Monte Carlo Based Artificial Neural Network for Nepali Language (Bachchan R. K. & Timalsina A. K., 2018)](https://ieeexplore.ieee.org/abstract/document/8586841)
 - [Automated News Classification using N-gram Model and Key Features of Nepali Language (Dangol et al., 2018)](https://www.nepjol.info/index.php/scitech/article/view/23504 )
 - [Nepali News Classification using Naïve Bayes, Support Vector Machines and Neural Networks (Shahi and Pant, 2018)](https://www.researchgate.net/publication/324098346_Nepali_news_classification_using_Naive_Bayes_Support_Vector_Machines_and_Neural_Networks)
 - [Nepali Multi-Class Text Classification (Singh Oyesh M., 2018)](https://oya163.github.io/assets/resume/Nepali_Text_Classification.pdf)
@@ -50,6 +52,10 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 - [Parsing Techniques using Paninian Framework on Nepali Language (A. Yajnik and D. Sharma, Nov. 2015)](https://www.researchgate.net/publication/289366165_Parsing_Techniques_using_Paninian_Framework_on_Nepali_Language)
 - [Report on Nepali Computational Grammar (Rupakheti et al.)](https://www.academia.edu/2414578/Report_on_Nepali_Computational_Grammar)
 
+## Embeddings
+
+- [NPVec1: Word Embeddings for Nepali - Construction and Evaluation (Koirala P. & Niraula N. B., Aug 2021)](https://aclanthology.org/2021.repl4nlp-1.18.pdf)
+
 ## Grammar
 
 - [Inflection and derivation in Nepali Noun, adjective and adverb 1 Inflection and derivation in Nepali (Dr. Laxmi Prasad Khatiwada, 2013)](https://www.researchgate.net/publication/237202333_Inflection_and_derivation_in_Nepali_Noun_adjective_and_adverb_1_Inflection_and_derivation_in_Nepali)
@@ -69,16 +75,24 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 
 - [Nepali Image Captioning (Adhikari A. and Ghimire S., Nov. 2019)](https://ieeexplore.ieee.org/abstract/document/8947436)
 
+## Language modeling
+
+- [Encoder Decoder based Nepali News Headline Generation (Mishra et al., Sep 2020)](https://www.researchgate.net/profile/Jayshree-Rathi/publication/344296357_Encoder_Decoder_based_Nepali_News_Headline_Generation/links/5f6461cba6fdcc0086297a25/Encoder-Decoder-based-Nepali-News-Headline-Generation.pdf)
+- [Cross-lingual Language Model Pretraining (Conneau A. & Lample G., 2019)](https://proceedings.neurips.cc/paper/2019/file/c04c19c2c2474dbf5f7ac4372c5b9af1-Paper.pdf)
+
 ## Lexicon development
 
 - [An Experience in Developing the Nepali Sense Tagged Corpus (Sarkar et. al., 2015)](https://ieeexplore.ieee.org/document/7148388)
 - [Some Challenges of Automated Annotation in A Multilingual Scenario (Roy et.al, 2014)](http://www.ijirset.com/upload/2014/december/67_Some.pdf)
 - [A Proposed Nepali Synset Entry and Extraction Tool (Roy et. al., 2012)](https://research.vu.nl/ws/portalfiles/portal/3628717/gwc2012.pdf#page=317)
+- [Extending corpus annotation of Nepali: advances in tokenisation and lemmatisation (Hardie et al., 2011)](https://escholarship.org/content/qt15t805x8/qt15t805x8.pdf?t=pfpo3r)
 - [Nepali Lexicon (Khatiwada, Laxmi P. and Gurung S.,  2007)](https://www.researchgate.net/publication/237202254_Co-Author_paper_Nepali_Lexicon)
 - [Nepali Lexicon Development (Bista et al.)](https://www.researchgate.net/publication/267789368_Nepali_Lexicon_Development)
 
 ## Morphological analysis
 
+- [Morph Analyzer of Verbs in Nepali Language (Bhutia et al., 2021)](https://link.springer.com/chapter/10.1007%2F978-981-15-6202-0_62)
+- [A vowel based word splitter to improve performance of existing Nepali morphological analyzers on words borrowed from Sanskrit (Adhikari M. & Neupane A., Apr 2020)](http://old.ku.edu.np/kuset/vol14_no1/Adhikari_and_Neupane_Vol_14_No_1_2020.pdf)
 - [Design of a Morph Analyzer for Non-Declinable Adjectives of Nepali Language (Borah et al., 2017)](https://dl.acm.org/doi/10.1145/3036290.3036307)
 - [Development of a Morph Analyser for Nepali noun token (Chhetri et al., 2015)](https://www.researchgate.net/publication/308821504_Development_of_a_Morph_Analyser_for_Nepali_noun_token)
 - [Building Morphological Analyzer for Nepali (Rai R. and Bhat, S.M., 2012)](https://www.academia.edu/5484848/Building_Morphological_Analyzer_for_Nepali)
@@ -97,6 +111,8 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 
 ## POS tagging
 
+- [Probabilistic and Neural Network Based POS Tagging of Ambiguous Nepali text: A Comparative Study (Pradhan A. & Yajnik A., Feb 2021)](https://dl.acm.org/doi/abs/10.1145/3459104.3459146)
+- [Fine-grained part-of-speech tagging in Nepali text (Shrestha I. & Dhakal S. S., 2021)](https://www.sciencedirect.com/science/article/pii/S1877050921012230)
 - [A Deep Learning Approach for Part-of-Speech Tagging in Nepali Language (Prabha et al., 2018)](https://ieeexplore.ieee.org/document/8554812)
 - [General Regression Neural Network Based PoS Tagging for Nepali Text (Archit Yajnik, Apr 2018)](https://www.researchgate.net/publication/325030165_General_Regression_Neural_Network_Based_PoS_Tagging_for_Nepali_Text)
 - [ANN Based POS Tagging For Nepali Text (Archit Yajnik, 2018)](https://www.semanticscholar.org/paper/ANN-Based-POS-Tagging-For-Nepali-Text-ArchitYajnik/8cc1a284d7ea51f267bb33dfdc520ad25d89a3f9?navId=extracted)
@@ -127,6 +143,7 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 
 ## Speech recognition
 
+- [Large Vocabulary Continuous Speech Recognition for Nepali Language (Baral, Elina & Shrestha, Sagar. Dec 2020)](http://www.ijsps.com/uploadfile/2020/1224/20201224035656984.pdf)
 - [Nepali Speech Recognition Using CNN, GRU and CTC (B. Bhatta, B. Joshi, and R. Maharjhan, Sep. 2020)](https://www.researchgate.net/publication/344402909_Nepali_Speech_Recognition_Using_CNN_GRU_and_CTC)
 - [Nepali Speech Recognition using RNN-CTC Model (P. Regmi, A. Dahal, and B. Joshi, Jul. 2019)](https://www.researchgate.net/publication/334523238_Nepali_Speech_Recognition_using_RNN-CTC_Model)
 - [Crowd-Sourced Speech Corpora for Javanese, Sundanese,
@@ -139,7 +156,7 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 - [Nepali Spell Checker. (Bal Krishna Bal et. al.)](https://web.archive.org/web/20150105024511/http://www.panl10n.net/english/final%20reports/pdf%20files/Nepal/NEP04.pdf)
 
 ## Stemming
-
+- [A novel rule-based recursive stemming algorithm for Nepali Plagiarism Detection (Shah et al., 2020)](https://www.academia.edu/41677918/A_novel_rule-based_recursive_stemming_algorithm_for_Nepali_Plagiarism_Detection)
 - [A Nepali Rule Based Stemmer and its performance on different NLP applications (Koirala P. & Shakya A., 2020)](https://arxiv.org/abs/2002.09901)
 - [A new stemmer for Nepali language (Shrestha and Dhakal, 2016)](https://ieeexplore.ieee.org/document/7749008?reload=true)
 - [An Affix Removal Stemmer for Natural Language Text in Nepali (Paul et al., 2014)](https://www.ijcaonline.org/archives/volume91/number6/15882-3439)
@@ -159,6 +176,7 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 
 ## Text to Speech
 
+- [Nepali Text to Speech Synthesis System using FreeTTS (Shah et al., 2018)](https://www.nepjol.info/index.php/scitech/article/view/23498)
 - [Building a Natural Sounding Text-to-Speech System for the Nepali Language - Research and Development Challenges and Solutions (Bajracharya et al., Aug 2018)](https://pdfs.semanticscholar.org/39cd/441faacb00a318d7121e5bbee7d02e2f73c4.pdf?_ga=2.107574849.293167234.1590247508-1685822225.1585112028)
 - [Enhancing the Quality of Nepali Text-to-Speech Systems (Bal, Bal Krishna and Ghimire, Rupak Raj; Aug 2017)](https://link.springer.com/chapter/10.1007/978-3-319-65551-2_14)
 - Nepali Text to Speech using Time Domain Pitch Synchronous Overlap Add Method (Malla P. 2015)
@@ -170,14 +188,17 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 - [English to Nepali Sentence Translation Using Recurrent Neural Network with Attention (Nemkul K. & Shakya S., Feb 2021)](https://ieeexplore.ieee.org/document/9397185)
 - [Efforts in the Development of an Augmented English–Nepali Parallel Corpus (Duwal S. & Bal B.K., Dec 2019)](https://lt4all.elra.info/proceedings/lt4all2019/pdf/2019.lt4all-1.94.pdf)
 - [The FLORES Evaluation Datasets for Low-Resource Machine Translation: Nepali–English and Sinhala–English (Guzman et al. (2019))](https://www.aclweb.org/anthology/D19-1632/)
+- [Neural Machine Translation: Hindi ⇔ Nepali (Laskar et al., 2019)](https://aclanthology.org/W19-5427.pdf)
 - [A Comparative Study of SMT and NMT: Case Study of English-Nepali Language Pair (Bal, Bal Krishna and Acharya, Praveen 2018)](https://www.semanticscholar.org/paper/tudy-of-SMT-and-NMT-%3A-Case-S-tudy-of-English-Nepali-Acharya-Bal/6bd57d32ec7e81e40705b3282da0305c52c94c17?p2df)
 - [English to Nepali Statistical Machine Translation System (Paul et. al., 2018)](https://link.springer.com/chapter/10.1007/978-981-10-6890-4_41)
 - [Expansion of the First Hindi-Nepali Word-Net based BiLingual Dictionary and the advancement of the HumanMachine Interface (Chakraborty et. al., Dec 2011)](https://research.ijcaonline.org/iceice/number6/iceice045.pdf)
 - [Development of a Nepali-English MT system using the Apertium MT platform](http://ltk.org.np/downloads/Report_internship_Apertium_MT_2011.pdf)
 - An Approach Towards The Construction Of The First Hindi-Nepali Word-Net Based Bi-Lingual Dictionary And The Challenges Handled (Chakraborty et al., 2011)
 - [Experiences in building the Nepali WordNet - insights and challenges (Chakraborty et. al., 2009)](https://www.semanticscholar.org/paper/Experiences-in-building-the-Nepali-WordNet-insights-Chakrabarty/4b69af4ab75f8f7ee2de9deef383b6cc38f546bf)
+- [Rule based machine translation system in the context of Nepali text to English text (Shrestha, H. K., 2008)](https://cs.ou.edu/~gsa/csrc08/abstracts/hira_abstract.pdf)
 - [Handling Honorification in Dobhase: Online English-to-Nepali Machine Translation System (Keshari et al., 2007)](https://www.researchgate.net/publication/269161645_HANDLING_HONORIFICATION_IN_DOBHASE_ONLINE_ENGLISH-TO-NEPALI_MACHINE_TRANSLATION_SYSTEM)
-- [UNL Nepali Deconverter (Keshari et al.)](https://www.researchgate.net/publication/265043654_UNL_Nepali_Deconverter)
+- Generation of Interlinear form of Nepali text with target language as English (Shrestha et al., 2005)
+- [UNL Nepali Deconverter (Keshari et al., 2005)](https://www.researchgate.net/publication/265043654_UNL_Nepali_Deconverter)
 
 ## Word sense disambiguation
 
@@ -189,6 +210,10 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 - Nepali Word Sense Disambigution using Adapted Lesk Algorithm (Dhungana U.R., 2011)
 - [Resources for Nepali Word Sense Disambiguation (Shrestha et al., Oct. 2008)](https://ieeexplore.ieee.org/abstract/document/4906758)
 - [Word Sense Disambiguation; a Brief Survey with Application to Nepali (Shrestha et al., Jan 2008)](https://www.researchgate.net/publication/265154046_Word_Sense_Disambiguation_a_Brief_Survey_with_Application_to_Nepali)
+
+## Application of NLP in Health
+
+- [Detecting Alzheimer’s Disease by Exploiting Linguistic Information from Nepali Transcript (Thapa et al., 2020)](https://link.springer.com/chapter/10.1007%2F978-3-030-63820-7_20)
 
 ## Miscellaneous
 
@@ -204,6 +229,7 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 - [fasttext embeddings](https://fasttext.cc/docs/en/crawl-vectors.html)
 - [ELMo embeddings (and more, for many South Asian languages)](https://www.cfilt.iitb.ac.in/~diptesh/embeddings/)
 - [Byte Pair Embeddings](https://bpemb.h-its.org/ne/)
+- [NPVec1](https://github.com/nowalab/nepali-word-embeddings)
 
 ### Corpus
 
