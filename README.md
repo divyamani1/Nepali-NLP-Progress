@@ -56,8 +56,13 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 
 - [NPVec1: Word Embeddings for Nepali - Construction and Evaluation (Koirala P. & Niraula N. B., Aug 2021)](https://aclanthology.org/2021.repl4nlp-1.18.pdf)
 
+## Emotion recognition
+
+- [Detecting emotion from short messages on Nepal earthquake (Saharia Navanath, Oct 2015)](https://ieeexplore.ieee.org/abstract/document/7343089/)
+
 ## Grammar
 
+- [Argument Structure of Nepali Verbs: A Study on Lexico-Semantic Ambiguity  (KM Manger, 2018)](https://d1wqtxts1xzle7.cloudfront.net/62366072/9_-_Argument_Structure_of_Nepali__-_FULLY_FINAL20200314-11417-1vund97.pdf?1584196355=&response-content-disposition=inline%3B+filename%3DArgument_Structure_of_Nepali_Verbs_A_Stu.pdf&Expires=1645040857&Signature=YQxR4F9jfs6y0wR9iN-HQuEe~db~7eriGD2w1qKRUZB1YmavSEGunWsZG4vlo8a23JQan71zEo7YI4plVEVsUg33v0idLgMChBqelPdovDLWWLZv9XReW64phJvdiVsefwZjk0EU1lhQSzS10GJwIauHmcA-GMYP0ZlF-GTJVcA4wepvYRPH5venzytc5ZmqQegz7AXfPZyI-7eo2cw1KqpLHTkKm0uJ7Fg~BUICSbyVkMum~-MeBdb1rCv5OrYlpO~gTReKbpD3ATELd9XgLLFLw6Yk2hFtMfmLXyZh9uSO~ZBq2uR9XV1SX2W~rs35iE5uh--LNpumx8pl5h8p0A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 - [Inflection and derivation in Nepali Noun, adjective and adverb 1 Inflection and derivation in Nepali (Dr. Laxmi Prasad Khatiwada, 2013)](https://www.researchgate.net/publication/237202333_Inflection_and_derivation_in_Nepali_Noun_adjective_and_adverb_1_Inflection_and_derivation_in_Nepali)
 - [Collation Sequence in Nepali - PAN Localization (Gurung S. & Khatiwada L.P.)](https://web.archive.org/web/20120916174715/http://www.panl10n.net/english/final%20reports/pdf%20files/Nepal/NEP01.pdf)
 - [A collocation-based approach to Nepali postpositions (Hardie, Andrew Jun. 2008)](https://www.researchgate.net/publication/240750540_A_collocation-based_approach_to_Nepali_postpositions)
@@ -89,6 +94,10 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 - [Nepali Lexicon (Khatiwada, Laxmi P. and Gurung S.,  2007)](https://www.researchgate.net/publication/237202254_Co-Author_paper_Nepali_Lexicon)
 - [Nepali Lexicon Development (Bista et al.)](https://www.researchgate.net/publication/267789368_Nepali_Lexicon_Development)
 
+## Linguistic Code-switching
+
+- [LinCE: A Centralized Benchmark for Linguistic Code-switching Evaluation (Aguilar et al., May 2020)](https://arxiv.org/abs/2005.04322)
+
 ## Morphological analysis
 
 - [Morph Analyzer of Verbs in Nepali Language (Bhutia et al., 2021)](https://link.springer.com/chapter/10.1007%2F978-981-15-6202-0_62)
@@ -113,6 +122,7 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 
 - [Probabilistic and Neural Network Based POS Tagging of Ambiguous Nepali text: A Comparative Study (Pradhan A. & Yajnik A., Feb 2021)](https://dl.acm.org/doi/abs/10.1145/3459104.3459146)
 - [Fine-grained part-of-speech tagging in Nepali text (Shrestha I. & Dhakal S. S., 2021)](https://www.sciencedirect.com/science/article/pii/S1877050921012230)
+- [Nepali POS Tagging using Deep Learning Approaches (Sayami et al., Dec 2019)](https://easychair.org/publications/preprint_download/Lczp)
 - [A Deep Learning Approach for Part-of-Speech Tagging in Nepali Language (Prabha et al., 2018)](https://ieeexplore.ieee.org/document/8554812)
 - [General Regression Neural Network Based PoS Tagging for Nepali Text (Archit Yajnik, Apr 2018)](https://www.researchgate.net/publication/325030165_General_Regression_Neural_Network_Based_PoS_Tagging_for_Nepali_Text)
 - [ANN Based POS Tagging For Nepali Text (Archit Yajnik, 2018)](https://www.semanticscholar.org/paper/ANN-Based-POS-Tagging-For-Nepali-Text-ArchitYajnik/8cc1a284d7ea51f267bb33dfdc520ad25d89a3f9?navId=extracted)
@@ -168,11 +178,13 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 
 ## Summarization
 
+- [Encoder Decoder based Nepali News Headline Generation (Mishra et. al., Sep 2020)](https://www.ijcaonline.org/archives/volume175/number20/mishra-2020-ijca-920735.pdf)
 - [Salient Sentence Extraction of Nepali Online Health News Texts (Ranabhat et al., 2019)](http://ictaes.org/wp-content/uploads/2019/07/4_21-26Salient-Sentence-Extraction-of-Nepali-Online-Health-News-Texts.pdf)
 
 ## Surveys
 
 - [Towards building advanced natural language applications: an overview of the existing primary resources and applications in Nepali (Bal Krishna Bal, 2009)](https://www.researchgate.net/publication/234790399_Towards_building_advanced_natural_language_applications_an_overview_of_the_existing_primary_resources_and_applications_in_Nepali)
+- [Removing Language Barrier: A Survey of Machine Transliteration (K.C., H. & Thapa S., Aug 2018)](https://www.proquest.com/docview/2608094412?pq-origsite=gscholar&fromopenview=true)
 
 ## Text to Speech
 
@@ -213,6 +225,7 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 
 ## Application of NLP in Health
 
+- [Exploiting linguistic information from Nepali transcripts for early detection of Alzheimer's disease using natural language processing and machine learning techniques (Adhikari et al., Dec 2021)](https://www.sciencedirect.com/science/article/abs/pii/S1071581921001798)
 - [Detecting Alzheimer’s Disease by Exploiting Linguistic Information from Nepali Transcript (Thapa et al., 2020)](https://link.springer.com/chapter/10.1007%2F978-3-030-63820-7_20)
 
 ## Miscellaneous
