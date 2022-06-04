@@ -187,6 +187,7 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 
 ## Surveys
 
+- [Natural language processing for Nepali text: a review (Shahi T.B. & Sitaula, Chiranjabi, Oct 2021)](https://link.springer.com/article/10.1007/s10462-021-10093-1)
 - [Towards building advanced natural language applications: an overview of the existing primary resources and applications in Nepali (Bal Krishna Bal, 2009)](https://www.researchgate.net/publication/234790399_Towards_building_advanced_natural_language_applications_an_overview_of_the_existing_primary_resources_and_applications_in_Nepali)
 - [Removing Language Barrier: A Survey of Machine Transliteration (K.C., H. & Thapa S., Aug 2018)](https://www.proquest.com/docview/2608094412?pq-origsite=gscholar&fromopenview=true)
 
