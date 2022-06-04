@@ -8,7 +8,9 @@ This curated list is an attempt to organize research and available tools in Nepa
 - [Optical Character Recognition System for Nepali Language Using ConvNet (Sharma, Manish K. and Bhattarai, Bidhan. 2017)](https://dl.acm.org/doi/10.1145/3055635.3056635)
 - [Dictionary Based Nepali Word Recognition using Neural Network (Dawadi et al., 2017)](https://www.ijser.org/researchpaper/Dictionary-Based-Nepali-Word-Recognition-using-Neural-Network.pdf)
 - [Nepali Character Recognition Using Deep Belief Nets (Neupane Aadesh, 2017)](http://aadeshnpn.com/wp-content/uploads/2018/09/nepali-character-recognition.pdf)
+- [Improving Nepali OCR performance by using hybrid recognition approaches (Pant, Nirajan & Bal, B.K., Jul 2016)](https://ieeexplore.ieee.org/document/7785384)
 - [Literature Review of Segmentation Problems in Nepali Optical Character Recognition (Bal, Bal Krishna and Pant, Nirajan 2016)](https://www.researchgate.net/publication/291348878_Literature_Review_of_Segmentation_Problems_in_Nepali_Optical_Character_Recognition)
+- [Deep Learning Based Large Scale Handwritten Devanagari Character Recognition (Pant et. al., 2015)](http://ashokpant.github.io/publications/ashok_2015_deep.pdf)
 - [Off-line Nepali Handwritten Character Recognition Using Multilayer Perceptron and Radial Basis Function Neural Networks (Pant et al., 2012)](http://ashokpant.github.io/publications/ashok_2012_off.pdf)
 - [Research Report on the Nepali OCR (Bal B.K. & Rupakheti P. Sep 2009)](https://web.archive.org/web/20150105025630/http://www.panl10n.net/english/Outputs%20Phase%202/CCs/Nepal/MPP/Papers/2009/research_report_nepali_ocr.pdf)
 - [Combining Multiple Feature Extraction Techniques for Handwritten Devnagari Character Recognition (Arora et al., 2008)](https://arxiv.org/pdf/1005.4032.pdf)
@@ -17,6 +19,7 @@ This curated list is an attempt to organize research and available tools in Nepa
 
 - [Vector representation based on a supervised codebook for Nepali documents classification (Sitaula et al., Mar 2021)](https://www.researchgate.net/publication/349763908_Vector_representation_based_on_a_supervised_codebook_for_Nepali_documents_classification)
 - [An Analysis of Classification Algorithms for Nepali News (Acharya K. and Shakya S., Jul. 2020)](https://www.researchgate.net/publication/343228516_An_Analysis_of_Classification_Algorithms_for_Nepali_News)
+- [Plagiarism Detection Framework Using Monte Carlo Based Artificial Neural Network for Nepali Language (Bachchan, R.K. & Timalsina A.K., Oct 2018)](https://ieeexplore.ieee.org/document/8586841)
 - [Nepali SMS filtering Using Decision Trees, Neural Network and Support Vector Machine (Shahi T.B & Shakya S., Oct 2018)](https://www.researchgate.net/publication/334167706_Nepali_SMS_filtering_Using_Decision_Trees_Neural_Network_and_Support_Vector_Machine)
 - [Nepali Text Document Classification Using Deep Neural Network (S. Subba, N. Paudel, and T. Shahi, Jun. 2019)](https://www.nepjol.info/index.php/TUJ/article/view/28677)
 - [Improving Nepali News Recommendation Using Classification Based on LSTM Recurrent Neural Networks (Basnet A. and Timalsina A., 2018)](https://ieeexplore.ieee.org/abstract/document/8586815)
@@ -43,6 +46,7 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 
 ## Corpus development
 
+- [LDC-IL: The Indian repository of resources for language technology (Choudhary Narayan, Jan 2021)](https://link.springer.com/article/10.1007/s10579-020-09523-3)
 - [Construction and annotation of a corpus of contemporary Nepali (Yadava et al., 2008)](https://www.researchgate.net/publication/228916687_Construction_and_annotation_of_a_corpus_of_contemporary_Nepali)
 
 ## Dependency parsing
