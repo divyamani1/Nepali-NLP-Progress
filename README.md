@@ -146,6 +146,9 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 
 ## Sentiment analysis
 
+- [Multi-channel CNN to classify nepali covid-19 related tweets using hybrid features (Sitaula, C. & Shahi, T.B., Mar 2022)](https://arxiv.org/abs/2203.10286)
+- [A Hybrid Feature Extraction Method for Nepali COVID-19-Related Tweets Classification (Sitaula et al., Mar 2022)](https://www.hindawi.com/journals/cin/2022/5681574/)
+- [Deep Learning-Based Methods for Sentiment Analysis on Nepali COVID-19-Related Tweets (Sitaula et al., Nov 2021)](https://www.hindawi.com/journals/cin/2021/2158184/)
 - [Aspect Based Abusive Sentiment Detection in Nepali Social Media Texts (Singh et al., Dec 2020)](https://ieeexplore.ieee.org/document/9381292)
 - [Named-Entity Based Sentiment Analysis of Nepali News Media Texts (Bal et al., Dec 2020)](https://aclanthology.org/2020.nlptea-1.16/)
 - [Aspect Based Sentiment Analysis of Nepali Text Using Support Vector Machine and Naive Bayes (Tamrakar et al., Nov 2020)](https://www.nepjol.info/index.php/TJ/article/view/32824)
