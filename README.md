@@ -17,7 +17,9 @@ This curated list is an attempt to organize research and available tools in Nepa
 
 ## Classification
 
+- [Comparative Analysis of Nepali News Classification using LSTM, Bi-LSTM and Transformer Model (Wagle, S.S. & Thapa S., Oct 2021)](http://conference.ioe.edu.np/ioegc10/papers/ioegc-10-123-10159.pdf)
 - [Vector representation based on a supervised codebook for Nepali documents classification (Sitaula et al., Mar 2021)](https://www.researchgate.net/publication/349763908_Vector_representation_based_on_a_supervised_codebook_for_Nepali_documents_classification)
+- [Detecting Clickbaits on Nepali News using SVM and RF (Dam et al., Mar 2021)](http://conference.ioe.edu.np/publications/ioegc9/ioegc-9-018-90032.pdf)
 - [An Analysis of Classification Algorithms for Nepali News (Acharya K. and Shakya S., Jul. 2020)](https://www.researchgate.net/publication/343228516_An_Analysis_of_Classification_Algorithms_for_Nepali_News)
 - [Plagiarism Detection Framework Using Monte Carlo Based Artificial Neural Network for Nepali Language (Bachchan, R.K. & Timalsina A.K., Oct 2018)](https://ieeexplore.ieee.org/document/8586841)
 - [Nepali SMS filtering Using Decision Trees, Neural Network and Support Vector Machine (Shahi T.B & Shakya S., Oct 2018)](https://www.researchgate.net/publication/334167706_Nepali_SMS_filtering_Using_Decision_Trees_Neural_Network_and_Support_Vector_Machine)
@@ -117,6 +119,7 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 
 ## Named Entity Recognition
 
+- [Named Entity Recognition for Nepali: Data Sets and Algorithms (Niraula, Nobal & Chapagain, Jeevan. May 2022)](https://journals.flvc.org/FLAIRS/article/view/130725)
 - [Named Entity Recognition (NER) for Nepali (Bal et al., 2019)](https://link.springer.com/chapter/10.1007/978-3-030-29750-3_6)
 - [Named Entity Recognition for Nepali Language (Singh et al., 2019)](https://arxiv.org/abs/1908.05828v1)
 - [Named Entity Recognition for Nepali Text Using Support Vector Machines (Bam and Shahi, 2014)](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=43828)
@@ -173,6 +176,7 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 - [Nepali Spell Checker. (Bal Krishna Bal et. al.)](https://web.archive.org/web/20150105024511/http://www.panl10n.net/english/final%20reports/pdf%20files/Nepal/NEP04.pdf)
 
 ## Stemming
+- [A Survey on Various Stemming Techniques for Hindi and Nepali Language (Upadhyaya et al., Aug 2021)](https://link.springer.com/chapter/10.1007/978-981-16-2911-2_14)
 - [A novel rule-based recursive stemming algorithm for Nepali Plagiarism Detection (Shah et al., 2020)](https://www.academia.edu/41677918/A_novel_rule-based_recursive_stemming_algorithm_for_Nepali_Plagiarism_Detection)
 - [A Nepali Rule Based Stemmer and its performance on different NLP applications (Koirala P. & Shakya A., 2020)](https://arxiv.org/abs/2002.09901)
 - [A new stemmer for Nepali language (Shrestha and Dhakal, 2016)](https://ieeexplore.ieee.org/document/7749008?reload=true)
@@ -185,6 +189,7 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 
 ## Summarization
 
+- [Extractive Method for Nepali Text Summarization Using Text Ranking and LSTM (Khanal et al., Oct 2021)](https://www.researchgate.net/publication/360823578_Extractive_Method_for_Nepali_Text_Summarization_Using_Text_Ranking_and_LSTM)
 - [Encoder Decoder based Nepali News Headline Generation (Mishra et. al., Sep 2020)](https://www.ijcaonline.org/archives/volume175/number20/mishra-2020-ijca-920735.pdf)
 - [Salient Sentence Extraction of Nepali Online Health News Texts (Ranabhat et al., 2019)](http://ictaes.org/wp-content/uploads/2019/07/4_21-26Salient-Sentence-Extraction-of-Nepali-Online-Health-News-Texts.pdf)
 
@@ -192,7 +197,6 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 
 - [Natural language processing for Nepali text: a review (Shahi T.B. & Sitaula, Chiranjabi, Oct 2021)](https://link.springer.com/article/10.1007/s10462-021-10093-1)
 - [Towards building advanced natural language applications: an overview of the existing primary resources and applications in Nepali (Bal Krishna Bal, 2009)](https://www.researchgate.net/publication/234790399_Towards_building_advanced_natural_language_applications_an_overview_of_the_existing_primary_resources_and_applications_in_Nepali)
-- [Removing Language Barrier: A Survey of Machine Transliteration (K.C., H. & Thapa S., Aug 2018)](https://www.proquest.com/docview/2608094412?pq-origsite=gscholar&fromopenview=true)
 
 ## Text to Speech
 
@@ -220,8 +224,12 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 - Generation of Interlinear form of Nepali text with target language as English (Shrestha et al., 2005)
 - [UNL Nepali Deconverter (Keshari et al., 2005)](https://www.researchgate.net/publication/265043654_UNL_Nepali_Deconverter)
 
+## Transliteration
+- [Removing Language Barrier: A Survey of Machine Transliteration (K.C., H. & Thapa S., Aug 2018)](https://www.proquest.com/docview/2608094412?pq-origsite=gscholar&fromopenview=true)
+
 ## Word sense disambiguation
 
+- [Nepali Word-Sense Disambiguation Using Variants of Simplified Lesk Measure (Singh et al., Aug 2021)](https://link.springer.com/chapter/10.1007/978-981-16-1681-5_4)
 - [Word Sense Disambiguation using WSD specific Wordnet of Polysemy Words (Dhungana et al., Sep 2014)](https://arxiv.org/abs/1409.3512)
 - [Word sense disambiguation in Nepali language (Dhungana U.R. & Shakya S., May 2014)](https://ieeexplore.ieee.org/document/6821655)
 - [Word Sense Disambiguation using Clue Words (Dhungana U.R. & Shakya S., 2014)](https://www.nepjol.info/index.php/JIE/article/view/10900/8874)
