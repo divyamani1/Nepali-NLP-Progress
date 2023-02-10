@@ -54,6 +54,7 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 
 ## Dependency parsing
 
+- [Annotation Projection-based Dependency Parser Development for Nepali (Rai, Pooja & Chatterji, Sanjay, Dec 2022](https://dl.acm.org/doi/10.1145/3542696)
 - [A Conceptual Graph Approach to the Parsing of Projective Sentences (Pradhan et al., 2019)](http://ijmcs.future-in-tech.net/15.1/R-Asiis.pdf)
 - [Parsing in Nepali Language Using Linear Programming Problem (A. Yajnik, F. Bhutia, and S. Borah, 2019)](https://www.researchgate.net/publication/327603883_Parsing_in_Nepali_Language_Using_Linear_Programming_Problem_IC3_2018)
 - [Parsing Techniques using Paninian Framework on Nepali Language (A. Yajnik and D. Sharma, Nov. 2015)](https://www.researchgate.net/publication/289366165_Parsing_Techniques_using_Paninian_Framework_on_Nepali_Language)
@@ -93,6 +94,7 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 - [Nepali Encoder Transformers: An Analysis of Auto Encoding Transformer Language Models for Nepali Text Classification (Maskey et al., Jun 2022](https://aclanthology.org/2022.sigul-1.14/)
 - [Comparative Evaluation of Transformer-Based Nepali Language Models (Tamrakar S.R. & Silpasuwanchai C., 2022)](https://assets.researchsquare.com/files/rs-2289743/v1/aa3f3ba4a38a880db3d6c5dc.pdf?c=1670229384)
 - [Preprocessing of Nepali News Corpus for Downstream Tasks (Awale et al., Aug 2022](https://www.nepjol.info/index.php/lsnj/article/view/46553)
+- [The Use of N-Gram Language Model in Predicting Nepali Words (Khadka, Bal Ram, May 2022](https://www.nepjol.info/index.php/paj/article/view/45040)
 - [Encoder Decoder based Nepali News Headline Generation (Mishra et al., Sep 2020)](https://www.researchgate.net/profile/Jayshree-Rathi/publication/344296357_Encoder_Decoder_based_Nepali_News_Headline_Generation/links/5f6461cba6fdcc0086297a25/Encoder-Decoder-based-Nepali-News-Headline-Generation.pdf)
 - [Cross-lingual Language Model Pretraining (Conneau A. & Lample G., 2019)](https://proceedings.neurips.cc/paper/2019/file/c04c19c2c2474dbf5f7ac4372c5b9af1-Paper.pdf)
 
@@ -194,6 +196,7 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 
 ## Summarization
 
+- [Attention based Recurrent Neural Network for Nepali Text Summarization (Timalsina et al., Jun 2022)](https://www.nepjol.info/index.php/JIST/article/view/46709)
 - [Extractive Method for Nepali Text Summarization Using Text Ranking and LSTM (Khanal et al., Oct 2021)](https://www.researchgate.net/publication/360823578_Extractive_Method_for_Nepali_Text_Summarization_Using_Text_Ranking_and_LSTM)
 - [Encoder Decoder based Nepali News Headline Generation (Mishra et. al., Sep 2020)](https://www.ijcaonline.org/archives/volume175/number20/mishra-2020-ijca-920735.pdf)
 - [Salient Sentence Extraction of Nepali Online Health News Texts (Ranabhat et al., 2019)](http://ictaes.org/wp-content/uploads/2019/07/4_21-26Salient-Sentence-Extraction-of-Nepali-Online-Health-News-Texts.pdf)
