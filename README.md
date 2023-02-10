@@ -17,6 +17,7 @@ This curated list is an attempt to organize research and available tools in Nepa
 
 ## Classification
 
+- [Improving Nepali News Classification Using Bidirectional Encoder Representation from Transformers (Kafle et al., Nov 2022](https://link.springer.com/chapter/10.1007/978-981-19-1653-3_36)
 - [Comparative Analysis of Nepali News Classification using LSTM, Bi-LSTM and Transformer Model (Wagle, S.S. & Thapa S., Oct 2021)](http://conference.ioe.edu.np/ioegc10/papers/ioegc-10-123-10159.pdf)
 - [Vector representation based on a supervised codebook for Nepali documents classification (Sitaula et al., Mar 2021)](https://www.researchgate.net/publication/349763908_Vector_representation_based_on_a_supervised_codebook_for_Nepali_documents_classification)
 - [Detecting Clickbaits on Nepali News using SVM and RF (Dam et al., Mar 2021)](http://conference.ioe.edu.np/publications/ioegc9/ioegc-9-018-90032.pdf)
@@ -88,6 +89,10 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 
 ## Language modeling
 
+- [NepBERTa: Nepali Language Model Trained in a Large Corpus (Timilsina et al., Nov 2022](https://aclanthology.org/2022.aacl-short.34/)
+- [Nepali Encoder Transformers: An Analysis of Auto Encoding Transformer Language Models for Nepali Text Classification (Maskey et al., Jun 2022](https://aclanthology.org/2022.sigul-1.14/)
+- [Comparative Evaluation of Transformer-Based Nepali Language Models (Tamrakar S.R. & Silpasuwanchai C., 2022)](https://assets.researchsquare.com/files/rs-2289743/v1/aa3f3ba4a38a880db3d6c5dc.pdf?c=1670229384)
+- [Preprocessing of Nepali News Corpus for Downstream Tasks (Awale et al., Aug 2022](https://www.nepjol.info/index.php/lsnj/article/view/46553)
 - [Encoder Decoder based Nepali News Headline Generation (Mishra et al., Sep 2020)](https://www.researchgate.net/profile/Jayshree-Rathi/publication/344296357_Encoder_Decoder_based_Nepali_News_Headline_Generation/links/5f6461cba6fdcc0086297a25/Encoder-Decoder-based-Nepali-News-Headline-Generation.pdf)
 - [Cross-lingual Language Model Pretraining (Conneau A. & Lample G., 2019)](https://proceedings.neurips.cc/paper/2019/file/c04c19c2c2474dbf5f7ac4372c5b9af1-Paper.pdf)
 
@@ -196,6 +201,7 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 ## Surveys
 
 - [Natural language processing for Nepali text: a review (Shahi T.B. & Sitaula, Chiranjabi, Oct 2021)](https://link.springer.com/article/10.1007/s10462-021-10093-1)
+- [Survey of NLP Resources in Low-Resource Languages Nepali, Sindhi and Konkani (Rajan, Annie & Salgaonkar, Ambuja, Jul 2021)](https://link.springer.com/chapter/10.1007/978-981-16-0739-4_12)
 - [Towards building advanced natural language applications: an overview of the existing primary resources and applications in Nepali (Bal Krishna Bal, 2009)](https://www.researchgate.net/publication/234790399_Towards_building_advanced_natural_language_applications_an_overview_of_the_existing_primary_resources_and_applications_in_Nepali)
 
 ## Text to Speech
@@ -208,6 +214,7 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 
 ## Translation
 
+- [Statistical and Syllabification Based Model for Nepali Machine Transliteration (Roy et al., Jul 2022](https://link.springer.com/chapter/10.1007/978-3-031-10766-5_2)
 - [Low Resource English to Nepali Sentence Translation Using RNN—Long Short-Term Memory with Attention (Nemkul K. & Shakya S., Mar 2021)](https://link.springer.com/chapter/10.1007%2F978-981-33-4355-9_48)
 - [English to Nepali Sentence Translation Using Recurrent Neural Network with Attention (Nemkul K. & Shakya S., Feb 2021)](https://ieeexplore.ieee.org/document/9397185)
 - [Efforts in the Development of an Augmented English–Nepali Parallel Corpus (Duwal S. & Bal B.K., Dec 2019)](https://lt4all.elra.info/proceedings/lt4all2019/pdf/2019.lt4all-1.94.pdf)
